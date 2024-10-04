@@ -1,0 +1,52 @@
+.main{
+color:black;
+text-align: center;
+font-size: 50px;
+
+}
+.navbar{
+    background-color: rgb(73, 35, 207);
+   color:white;
+    display:flex;
+    flex-direction: row;
+    column-gap:5rem;
+    height:30px
+}
+
+.navitem{
+    font-size:30px;
+    color:aquamarine;
+
+}
+
+.mainpage{
+ border: 20rem; padding-top: 40px;
+}
+
+
+.footer{
+    background-color: crimson;
+    float:bottom;
+    height:10rem
+    
+}
+
+.d2{
+    height:20rem;
+    width:auto;
+}
+.img{
+    margin-left: 800px;
+    border-bottom: 20rem;
+    display:flex;
+    text-align:center;
+}
+
+#link{
+    font-size: 35px;
+    text-align: center;
+}
+.d3{
+    margin-left: 850px;
+    margin-bottom:100px
+}
